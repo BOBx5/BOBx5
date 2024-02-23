@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=BOBx5%20Github&descAlign=78)
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=200&color=gradient&text=BOBx5%20Github&descAlign=78)
 <div align="center">
     <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.NET&logoColor=white"/>

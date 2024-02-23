@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&height=200&color=gradient&text=BOBx5%20Github&descAlign=78)
 <div align="center">
     <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.NET&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WPF-512BD4?style=flat&logo=.NET&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Winform-512BD4?style=flat&logo=.NET&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ASP.NET Core-512BD4?style=flat&logo=.NET&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EntityFramework-512BD4?style=flat&logo=.NET&logoColor=white"/>
 </div>
 <div align="center">
     <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>

@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.NET&logoColor=white"/>
 </div>
 <div align="center">
-    <img src="https://img.shields.io/badge/powershell-5391FE?style=flat&logo=powershell&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 </div>
 <div align="center">

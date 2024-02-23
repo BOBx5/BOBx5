@@ -12,10 +12,15 @@
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic&pause=1000&random=false&width=435&lines=%EB%8B%B7%EB%84%B7%EC%9D%84+%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94+5%EB%85%84%EC%B0%A8+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
-### 닷넷을 사랑하는 5년차 개발자입니다.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOBx5&layout=compact&theme=github_dark"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=BOBx5&show_icons=true&theme=github_dark">
 
 <!--
+![BOBx5's GitHub stats](https://github-readme-stats.vercel.app/api?username=BOBx5&show_icons=true&theme=ambient_gradient)
+
+
 **BOBx5/BOBx5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you start![csharp](https://github.com/BOBx5/BOBx5/assets/55046528/de69e5a7-19a9-4eca-9b0e-b7d819cf9198)
